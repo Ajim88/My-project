@@ -1,0 +1,35 @@
+p{
+    color: rgb(199, 141, 5);
+}
+#four{
+    background-color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-size: larger;
+}
+.eight{
+    color: blue;
+}
+.blod{
+    font-weight: bold;
+}
+.bloder{
+    background-color: cornflowerblue;
+}
+*{
+    /* margin: 0%; */
+}
+input{
+    font-size: 20px;
+    color: red;
+}
+input[type="password"]{
+    background-color: crimson;
+}
+.line{
+    color: seagreen;
+}
+.lorem{
+   background-color: slateblue;
+   font-style: italic; 
+}
