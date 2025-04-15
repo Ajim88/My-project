@@ -24,7 +24,7 @@ input{
     color: red;
 }
 input[type="password"]{
-    background-color: crimson;
+    background-color: rgb(3, 91, 13);
 }
 .line{
     color: seagreen;
